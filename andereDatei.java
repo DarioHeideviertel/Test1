@@ -4,4 +4,5 @@ public class andereDatei {
     }
     int y=5;
     int x=6;
+    int y=4;
 }
